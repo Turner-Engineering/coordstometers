@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: coordstometers
-Version: 0.0.3
+Version: 0.0.4
 Summary: Converts GPS coordinates to meters coordinates centered at some point and back
 Author: ThisTemba
 Project-URL: Homepage, https://github.com/ThisTemba/coordstometers
@@ -8,7 +8,7 @@ Project-URL: Issues, https://github.com/ThisTemba/coordstometers/issues
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
-Requires-Python: >=3.8
+Requires-Python: >=3.7
 Description-Content-Type: text/markdown
 License-File: LICENSE
 
