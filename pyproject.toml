@@ -12,8 +12,8 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/ThisTemba/coordstometers"
-Issues = "https://github.com/ThisTemba/coordstometers/issues"
+Homepage = "https://github.com/Turner-Engineering/coordstometers"
+Issues = "https://github.com/Turner-Engineering/coordstometers/issues"
 
 [build-system]
 requires = ["setuptools>=61.0"]
